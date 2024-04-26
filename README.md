@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @TheotimeQ
-- 🌱 I’m currently learning C at Lyon 42 School and Cybersecurity at CPE Lyon 
+- 🌱 I’m currently in School at Lyon 42 School and Cybersecurity at CPE Lyon
+- 🧑‍💻 Working as an apprentice in Schneider Electric in Cybersecurity
+- 🚀 Working on https://centralcsp.com
 - 💞️ I’m looking to collaborate on any crazy idea 
 - 📫 Contact me at theotimeq.pro@gmail.com
